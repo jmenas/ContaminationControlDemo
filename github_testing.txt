@@ -1,1 +1,3 @@
 This is a file to test and figure out Github.
+
+I just added this text to see if I still need to "Push origin" if I just change the contents of a txt file.
