@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4637208888031940}
   - component: {fileID: 65638503853261886}
   m_Layer: 0
-  m_Name: lockerBench
+  m_Name: LockerBench
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
