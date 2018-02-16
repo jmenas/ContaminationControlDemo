@@ -41,3 +41,5 @@ ehthumbs.db
 Thumbs.db
 Library/CurrentLayout.dwlt
 Library/LastSceneManagerSetup.txt
+*.dwlt
+
