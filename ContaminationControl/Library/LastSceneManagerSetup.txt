@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/LabMap.unity
+- path: Assets/Scenes/LockerRoom.unity
   isLoaded: 1
   isActive: 1
