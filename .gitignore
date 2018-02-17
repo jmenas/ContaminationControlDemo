@@ -1,4 +1,4 @@
-/ContaminationControl/[Ll]ibrary/
+/ContaminationControl/Library/
 /ContaminationControl/[Tt]emp/
 /ContaminationControl/[Oo]bj/
 /ContaminationControl/[Bb]uild/
@@ -33,3 +33,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
