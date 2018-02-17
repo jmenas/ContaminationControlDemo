@@ -1,9 +1,9 @@
-/ContaminationControl/[Ll]ibrary/
-/ContaminationControl/[Tt]emp/
-/ContaminationControl/[Oo]bj/
-/ContaminationControl/[Bb]uild/
-/ContaminationControl/[Bb]uilds/
-/ContaminationControl/Assets/AssetStoreTools*
+ContaminationControl/[Ll]ibrary/
+ContaminationControl/[Tt]emp/
+ContaminationControl/[Oo]bj/
+ContaminationControl/[Bb]uild/
+ContaminationControl/[Bb]uilds/
+ContaminationControl/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
