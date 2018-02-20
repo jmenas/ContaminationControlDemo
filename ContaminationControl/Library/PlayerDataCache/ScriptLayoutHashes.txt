@@ -1,4 +1,4 @@
-WindowsStandalone
+WebGL
 SceneListBegin?
 Assets/Scenes/MainTitle.unity
 Assets/Scenes/LockerRoom.unity
