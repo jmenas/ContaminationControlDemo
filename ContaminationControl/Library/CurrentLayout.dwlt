@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 1067
-  m_MinSize: {x: 713, y: 492}
+  m_MinSize: {x: 798, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 3259
+  controlID: 7601
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,8 +129,8 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 1067
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -159,7 +159,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 3105
+  controlID: 7602
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,15 +233,15 @@ MonoBehaviour:
     y: 0
     width: 369
     height: 1067
-  m_MinSize: {x: 277, y: 71}
+  m_MinSize: {x: 362, y: 411}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 19}
+  m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 19}
   - {fileID: 20}
   - {fileID: 21}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -348,9 +348,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70010000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8225feff6e26feffec28feff0429feff983bfeff843cfeff023ffeff1a3ffeffc64dfeff9c4efeff1651feff2a51feff9ae1ffffd2e3ffff66e9ffff00000000c6760000
+    m_ExpandedIDs: 1829fcff522afcffd02cfcffe42cfcffae70fcff2e72fcffac74fcffc074fcffe67bfcfffa7bfcff0ed9fcff9efbffff00000000a25f000026b80100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,9 +406,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.82910156, y: 1.197998, z: -2.1271973}
+    m_Target: {x: -6.0371094, y: -0.5336914, z: 0.21044922}
     speed: 2
-    m_Value: {x: -0.82910156, y: 1.197998, z: -2.1271973}
+    m_Value: {x: -6.0371094, y: -0.5336914, z: 0.21044922}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -432,13 +432,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.07688373, y: -0.8736346, z: 0.14681949, w: 0.45748994}
+    m_Target: {x: -0.106557846, y: 0.8730108, z: -0.22059315, w: -0.42171213}
     speed: 2
-    m_Value: {x: -0.07688368, y: 0.873634, z: -0.14681938, w: -0.4574896}
+    m_Value: {x: -0.10655758, y: 0.8730086, z: -0.2205926, w: -0.4217111}
   m_Size:
-    m_Target: 7.9565344
+    m_Target: 9.168219
     speed: 2
-    m_Value: 7.9565344
+    m_Value: 9.168219
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -516,19 +516,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Prefab
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Prefab
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Github\ContaminationControlDemo\ContaminationControl
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 08610000
-    m_LastClickedID: 24840
-    m_ExpandedIDs: 00000000164800009a4a000008610000d866000000ca9a3bffffff7f
+    m_SelectedIDs: a8380000
+    m_LastClickedID: 14504
+    m_ExpandedIDs: 0000000056300000de320000c6490000ae4f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,7 +556,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000164800009a4a000008610000d866000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000056300000de320000c6490000ae4f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -792,7 +792,7 @@ MonoBehaviour:
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 210
+    m_CachedPref: 345
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
