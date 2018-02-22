@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 1208, y: 442}
   m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 13313
+  controlID: 20447
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -204,7 +204,7 @@ MonoBehaviour:
   m_MinSize: {x: 804, y: 442}
   m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 13197
+  controlID: 20448
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -708,6 +708,12 @@ MonoBehaviour:
       - fsmComponentID: 145268
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
+      - fsmComponentID: 145708
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 145268
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
       - fsmComponentID: 145418
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
@@ -718,11 +724,11 @@ MonoBehaviour:
       selectionCache:
       - fsmComponentID: 145268
         fsmTemplate: {fileID: 0}
-        stateName: NotAtTheLocker
+        stateName: Locker Interaction
         stateNames:
-        - NotAtTheLocker
-        transitionIndex: 1
-        scrollPosition: {x: 0.5234375, y: 31.726562}
+        - Locker Interaction
+        transitionIndex: -1
+        scrollPosition: {x: 16.523438, y: 49.3125}
         zoom: 1
       - fsmComponentID: 145418
         fsmTemplate: {fileID: 0}
