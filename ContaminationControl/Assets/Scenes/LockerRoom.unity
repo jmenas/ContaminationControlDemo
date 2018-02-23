@@ -871,7 +871,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4183634034697672, guid: 5ae10c661f9f18149b689b2d266a030e, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -4.55
+      value: -4.53
       objectReference: {fileID: 0}
     - target: {fileID: 4183634034697672, guid: 5ae10c661f9f18149b689b2d266a030e, type: 2}
       propertyPath: m_LocalRotation.x
@@ -10093,7 +10093,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           typeName: UnityEngine.AudioClip
-          value: {fileID: 8300000, guid: abdc8375ce15bd94ca4a903adf2beb19, type: 3}
+          value: {fileID: 8300000, guid: 9f2a5852c7e52a2468292ecc0b8fac8e, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
