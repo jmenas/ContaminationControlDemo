@@ -280,7 +280,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &23789742 stripped
 Transform:
@@ -3025,7 +3025,7 @@ Transform:
   - {fileID: 441413617}
   - {fileID: 397343548}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &397343546 stripped
 GameObject:
@@ -3551,7 +3551,7 @@ Transform:
   m_Children:
   - {fileID: 153951649}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &460712756
 GameObject:
@@ -5713,7 +5713,7 @@ Transform:
   m_LocalScale: {x: 0.05, y: 1, z: 0.05}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 90, y: 50, z: 0}
 --- !u!114 &656417181
 MonoBehaviour:
@@ -7373,7 +7373,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 3b123d27df9cd884b8aafc806a1ad0db, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 3b123d27df9cd884b8aafc806a1ad0db, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -7608,7 +7608,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &939705204
 GameObject:
@@ -7750,7 +7750,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4114684121101730, guid: 2de7ffbdedc0db64cb6f86d6ae6bf122, type: 2}
       propertyPath: m_RootOrder
-      value: 21
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1145519497778346, guid: 2de7ffbdedc0db64cb6f86d6ae6bf122, type: 2}
       propertyPath: m_Name
@@ -8010,7 +8010,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &981214427
 Prefab:
@@ -8145,7 +8145,7 @@ Transform:
   - {fileID: 98849913}
   - {fileID: 1175385574}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1003953153
 GameObject:
@@ -8213,7 +8213,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4892756591096026, guid: 19e89b762e120d14d96c2e69280611bf, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1483616002461610, guid: 19e89b762e120d14d96c2e69280611bf, type: 2}
       propertyPath: m_Name
@@ -8545,7 +8545,7 @@ Transform:
   m_Children:
   - {fileID: 46590018}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 70, z: 0}
 --- !u!95 &1068596611
 Animator:
@@ -8986,7 +8986,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -29.000042, y: -36.000008}
-  m_SizeDelta: {x: 882, y: 331}
+  m_SizeDelta: {x: 882, y: 700}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1117780866
 MonoBehaviour:
@@ -9008,7 +9008,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Type: 2
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -10354,7 +10354,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -10448,7 +10448,7 @@ Transform:
   m_LocalScale: {x: 0.4996908, y: 0.4996908, z: 0.49969077}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: -89.98, y: -130, z: 130.15901}
 --- !u!114 &1253589313
 MonoBehaviour:
@@ -10857,16 +10857,20 @@ MonoBehaviour:
         - HutongGames.PlayMaker.Actions.SetBoolValue
         - HutongGames.PlayMaker.Actions.ActivateGameObject
         - HutongGames.PlayMaker.Actions.ActivateGameObject
+        - HutongGames.PlayMaker.Actions.AudioPlay
         - HutongGames.PlayMaker.Actions.Wait
+        - HutongGames.PlayMaker.Actions.ActivateGameObject
         customNames:
         - 
         - 
         - 
         - 
-        actionEnabled: 01010101
-        actionIsOpen: 01010101
-        actionStartIndex: 0000000003000000080000000d000000
-        actionHashCodes: 27fbe103b2cf1000b2cf100048c01101
+        - 
+        - 
+        actionEnabled: 010101010101
+        actionIsOpen: 010101010101
+        actionStartIndex: 0000000003000000080000000d0000001100000014000000
+        actionHashCodes: 27fbe103b2cf1000b2cf10001b142f0148c01101b2cf1000
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -10886,6 +10890,22 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             value: {fileID: 618693268}
+        - ownerOption: 0
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 0}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 1477079038}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -10893,11 +10913,24 @@ MonoBehaviour:
         fsmPropertyParams: []
         layoutOptionParams: []
         fsmStringParams: []
-        fsmObjectParams: []
+        fsmObjectParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          typeName: UnityEngine.AudioClip
+          value: {fileID: 8300000, guid: 127853e24c635af45b0c121ca84c3d7f, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
         fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
         - useVariable: 0
           name: 
           tooltip: 
@@ -10942,19 +10975,32 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
         fsmVector2Params: []
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams:
+        - 
         - FINISHED
-        byteData: 000000000000
+        byteData: 0000000000000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 110000001100000001000000140000001100000011000000010000000100000014000000110000001100000001000000010000000f0000001700000001000000
+        paramDataType: 11000000110000000100000014000000110000001100000001000000010000001400000011000000110000000100000001000000140000000f00000018000000170000000f00000017000000010000001400000011000000110000000100000001000000
         paramName:
         - boolVariable
         - boolValue
@@ -10969,11 +11015,20 @@ MonoBehaviour:
         - recursive
         - resetOnExit
         - everyFrame
+        - gameObject
+        - volume
+        - oneShotClip
+        - finishedEvent
         - time
         - finishEvent
         - realTime
-        paramDataPos: 00000000010000000000000000000000020000000300000001000000020000000100000004000000050000000300000004000000000000000000000005000000
-        paramByteDataSize: 00000000000000000100000000000000000000000000000001000000010000000000000000000000000000000100000001000000000000000000000001000000
+        - gameObject
+        - activate
+        - recursive
+        - resetOnExit
+        - everyFrame
+        paramDataPos: 00000000010000000000000000000000020000000300000001000000020000000100000004000000050000000300000004000000020000000000000000000000000000000100000001000000050000000300000006000000070000000600000007000000
+        paramByteDataSize: 00000000000000000100000000000000000000000000000001000000010000000000000000000000000000000100000001000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000001000000
     - name: Locker Is Open
       description: 
       colorIndex: 0
@@ -12353,7 +12408,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1355649958
 GameObject:
@@ -13346,6 +13401,11 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.06254879, y: 0.024864048, z: 0.000000059604645}
     m_Extent: {x: 0.5167997, y: 0.2744613, z: 0.7707152}
   m_DirtyAABB: 0
+--- !u!1 &1477079038 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1094779216663650, guid: 96843710ccde7a44da3d07d5b2fa89b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 1796645487}
 --- !u!1001 &1482654359
 Prefab:
   m_ObjectHideFlags: 0
@@ -14167,7 +14227,7 @@ Transform:
   m_Children:
   - {fileID: 494427924}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1501146656
 Animator:
@@ -14619,7 +14679,7 @@ Transform:
   - {fileID: 1165374015}
   - {fileID: 122618475}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1563994443
 GameObject:
@@ -16225,6 +16285,52 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1791504545}
   m_Mesh: {fileID: 4300324, guid: 8ed86b8ef3190a9429964c02eaa4f31c, type: 3}
+--- !u!1001 &1796645487
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -4.489
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.855
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4559722871529040, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1094779216663650, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 96843710ccde7a44da3d07d5b2fa89b9, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1809872143
 Prefab:
   m_ObjectHideFlags: 0
@@ -16343,7 +16449,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4571841375279242, guid: f8c71b1a75744804b89cbfd5d2189ce2, type: 2}
       propertyPath: m_RootOrder
-      value: 20
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 1277378757948924, guid: f8c71b1a75744804b89cbfd5d2189ce2, type: 2}
       propertyPath: m_Name
@@ -16939,7 +17045,7 @@ RectTransform:
   m_Children:
   - {fileID: 1048520044}
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -17084,14 +17190,16 @@ MonoBehaviour:
         - HutongGames.PlayMaker.Actions.SetBoolValue
         - HutongGames.PlayMaker.Actions.ActivateGameObject
         - HutongGames.PlayMaker.Actions.ScaleTime
+        - HutongGames.PlayMaker.Actions.AudioStop
         customNames:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 010101
-        actionStartIndex: 000000000300000008000000
-        actionHashCodes: 27fbe103b2cf10006cdd4504
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 0000000003000000080000000b000000
+        actionHashCodes: 27fbe103b2cf10006cdd45048d4bb503
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -17103,6 +17211,14 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             value: {fileID: 1048520043}
+        - ownerOption: 1
+          gameObject:
+            useVariable: 0
+            name: 
+            tooltip: 
+            showInInspector: 0
+            networkSync: 0
+            value: {fileID: 1501146651}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -17164,7 +17280,7 @@ MonoBehaviour:
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 11000000110000000100000014000000110000001100000001000000010000000f0000001100000001000000
+        paramDataType: 11000000110000000100000014000000110000001100000001000000010000000f000000110000000100000014000000
         paramName:
         - boolVariable
         - boolValue
@@ -17177,8 +17293,9 @@ MonoBehaviour:
         - timeScale
         - adjustFixedDeltaTime
         - everyFrame
-        paramDataPos: 0000000001000000000000000000000002000000030000000100000002000000000000000400000003000000
-        paramByteDataSize: 0000000000000000010000000000000000000000000000000100000001000000000000000000000001000000
+        - gameObject
+        paramDataPos: 000000000100000000000000000000000200000003000000010000000200000000000000040000000300000001000000
+        paramByteDataSize: 000000000000000001000000000000000000000000000000010000000100000000000000000000000100000000000000
     - name: Compbook is Open
       description: 
       colorIndex: 0
@@ -17423,7 +17540,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -17776,7 +17893,7 @@ Transform:
   - {fileID: 1645231543}
   - {fileID: 1482654360}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2090538990
 GameObject:
@@ -17989,7 +18106,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 8be7cad203b8ebe43b94acc4002684e3, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 8be7cad203b8ebe43b94acc4002684e3, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18358,7 +18475,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &2138152417
 GameObject:
@@ -18461,5 +18578,5 @@ Transform:
   - {fileID: 2127544473}
   - {fileID: 23789742}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
