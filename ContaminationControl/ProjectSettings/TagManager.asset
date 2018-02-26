@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Trigger_Linda
   - Trigger_Locker
+  - Trigger_Exit
   layers:
   - Default
   - TransparentFX
