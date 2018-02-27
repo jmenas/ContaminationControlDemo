@@ -7,6 +7,7 @@ TagManager:
   - Trigger_Linda
   - Trigger_Locker
   - Trigger_Exit
+  - Trigger_Book
   layers:
   - Default
   - TransparentFX
