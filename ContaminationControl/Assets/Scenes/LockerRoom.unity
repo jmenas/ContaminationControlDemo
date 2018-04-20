@@ -7262,7 +7262,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -11961,7 +11961,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1068596609}
-  m_LocalRotation: {x: -0, y: 0.7443034, z: -0, w: 0.66784173}
+  m_LocalRotation: {x: 0, y: 0.6427876, z: 0, w: 0.7660445}
   m_LocalPosition: {x: -2.33, y: -0.5, z: 2.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -11969,7 +11969,7 @@ Transform:
   - {fileID: 1145191099}
   m_Father: {fileID: 0}
   m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: 96.199005, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 80, z: 0}
 --- !u!95 &1068596611
 Animator:
   serializedVersion: 3
@@ -18925,7 +18925,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -20889,7 +20889,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -20916,10 +20916,10 @@ MonoBehaviour:
     handleJointBreak2D: 0
     handleOnGUI: 0
     handleFixedUpdate: 0
-    handleLateUpdate: 0
+    handleLateUpdate: 1
     handleApplicationEvents: 0
     handleLegacyNetworking: 0
-    handleAnimatorMove: 0
+    handleAnimatorMove: 1
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 0
